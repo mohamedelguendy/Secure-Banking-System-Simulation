@@ -16,7 +16,7 @@
 
 - ## Inside this folder, the system will automatically create:
 
-users.json
+users.json / 
 transactions.json
 
 ## You do NOT need to create these files manually.
