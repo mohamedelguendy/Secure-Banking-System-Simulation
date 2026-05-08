@@ -14,4 +14,4 @@
 - JSON file storage
 - Google Drive integration
 
-- ## Must creeate JSON files in drive
+- ## Must create JSON files in drive
