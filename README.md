@@ -14,12 +14,12 @@
 - JSON file storage
 - Google Drive integration
 
-- ##Inside this folder, the system will automatically create:
+- ## Inside this folder, the system will automatically create:
 
 users.json
 transactions.json
 
-##You do NOT need to create these files manually.
+## You do NOT need to create these files manually.
 They will be generated automatically after the first operation (e.g., register, deposit, or transfer).
 The folder name must match exactly (including spaces)
 If the folder does not exist, the system will fail to save data
