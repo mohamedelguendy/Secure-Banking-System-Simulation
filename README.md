@@ -1,2 +1,15 @@
-# Secure-Banking-System-Simulation
-A Python-based Secure Banking System that simulates core banking operations including user registration, login authentication, balance management, money transfer, transaction history tracking, password strength validation, and secure password changes. It also includes login attempt limits and global transaction logs for auditing purposes.
+# Secure Banking System Simulation
+
+## Features
+- User registration & login
+- Password strength validation
+- Deposit & transfer system
+- Transaction history
+- Persistent storage (Google Drive JSON files)
+- Account lock after failed attempts
+
+## Tech Used
+- Python
+- Google Colab
+- JSON file storage
+- Google Drive integration
